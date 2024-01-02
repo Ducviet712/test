@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Việt Đức"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/mstile-150x150.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   location: "Binh Duong, Viet Nam"
   links:
