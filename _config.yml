@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Việt Đức"
   avatar : "/assets/images/bio.jpg"
-  bio    : "I'm a human, an avid learner with a passion for all things electrical and a drive to explore new horizons in control engineering and automation."
+  bio    : "I'm an avid learner with a passion for all things electrical and a drive to explore new horizons in control engineering and automation."
   location: "Binh Duong, Viet Nam"
   links:
 #    - label: "Website"
