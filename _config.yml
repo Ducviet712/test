@@ -66,9 +66,9 @@ author:
   bio    : "I'm an avid learner with a passion for all things electrical and a drive to explore new horizons in control engineering and automation."
   location: "Binh Duong, Viet Nam"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://levietduc.me"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
