@@ -25,6 +25,8 @@ twitter_username: username
 github_username: levietduc0712
 minimal_mistakes_skin: dark
 search: true
+repository: "ducviet712/ducviet712.github.io"
+issues_repo: "ducviet712/ducviet712.github.io"
 
 # Build settings
 markdown: kramdown
